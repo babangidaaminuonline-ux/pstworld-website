@@ -1,0 +1,8 @@
+{
+  "name": "PST WORLD Logistics Platform",
+  "description": "A comprehensive logistics and delivery management platform with a professional frontend, integrated CMS, and booking management system.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
