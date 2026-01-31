@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Navbar from './Components/Navbar';
+import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Booking from './pages/Booking';
 import AdminDashboard from './pages/AdminDashboard';
